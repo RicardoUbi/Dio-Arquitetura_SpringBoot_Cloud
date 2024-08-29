@@ -7,3 +7,4 @@ Neste bootcamp, aprimoramos o processo de desenvolvimento conhecendo diferentes 
 ## Projetos
 
 * [Desenvolvendo um Sistema para Eleição Usando Quarkus Framework](/Sistema_Eleição_Quarkus/): Criando um sistema de eleição.
+* [Redução de custos de Farmacias com AWS](/Reducao_Custos_Farmacias_AWS/): Criando um relatorio sobre o processo de implementação de ferramentas em empresas farmaceuticas.
